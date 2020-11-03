@@ -3,7 +3,7 @@
 Pre Requirements: **JDK 8+**, **Maven** and **Kafka 2.13-2.6.0** installed.
 
 ## Runing Kafka
-Download and configure following the instructions on the [quickstart](https://kafka.apache.org/quickstart/).
+Download and configure following the instructions on the [quickstart](https://kafka.apache.org/quickstart).
 
 Run the following commands in order to start all services in the correct order:
 
@@ -101,4 +101,4 @@ The following json:
 
 > You can access H2 database at [*http://localhost:8080/h2*](http://localhost:8080/h2)
 
-More informations about the challenge in Challenge.md
+More informations about the challenge in [Challenge.md](Challenge.md)
